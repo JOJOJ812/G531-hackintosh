@@ -11,7 +11,7 @@
 MacOS Big Sur 11.x  
 MacOS Catalina 10.15.x  
 MacOS Mojave 10.14.x  
-MacOS High Sierra 10.13.6 (17G2112)
+MacOS High Sierra 10.13.6 
 
 ## 适用型号
   * G531（魔霸1——4）
@@ -21,7 +21,7 @@ MacOS High Sierra 10.13.6 (17G2112)
 
 ## 发布
 
-发布OC版本为064（不完整）需自行构建完整的OC文件，GitHub仅提供acpi与config配置文件（请前往：https://github.com/JOJOJ812/G531-hackintosh）
+发布OC版本为064（不完整）需自行构建完整的OC文件，GitHub仅提供acpi与config配置文件（请前往：(https://github.com/JOJOJ812/G531-hackintosh）
 
 ## 需要准备
 - 下载好的 MacOS 镜像（支持 macOS High Sierra (10.13.6) - macOS Big Sur 的镜像安装）
@@ -46,8 +46,8 @@ MacOS High Sierra 10.13.6 (17G2112)
 - Mac App Store正常运行
 - CPU变频
 - 睡眠唤醒（鼠标，键盘、电源键唤醒均正常）
-- 无线网络（你可以使用intel网卡，驱动来自https://github.com/OpenIntelWireless/itlwm/releases）
-- 蓝牙（你可以使用intel蓝牙，驱动来自https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases）
+- 无线网络（你可以使用intel网卡，驱动来自(https://github.com/OpenIntelWireless/itlwm/releases）
+- 蓝牙（你可以使用intel蓝牙，驱动来自(https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases）
 - 触控板 （全系支持全手势）
 - 随航（有线/无线）
 
