@@ -41,7 +41,7 @@ MacOS High Sierra 10.13.6
 - 电池状态
 - 背光控制
 - 背光键盘
-- 核显驱动（独显已经 hotpatch 屏蔽）
+- 核显驱动（独显已经屏蔽）
 - 有线以太网卡
 - Mac App Store正常运行
 - CPU变频
@@ -49,7 +49,7 @@ MacOS High Sierra 10.13.6
 - 无线网络（你可以使用intel网卡，驱动来自(https://github.com/OpenIntelWireless/itlwm/releases）
 - 蓝牙（你可以使用intel蓝牙，驱动来自(https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases）
 - 触控板 （全系支持全手势）
-- 随航（有线/无线）
+- 随航（有线/无线{需要网卡支持}）
 
 ## 不能正常使用的功能
 - HDMI ，因为HDMI 端口连接到已禁用的Nvidia卡
