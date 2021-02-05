@@ -61,4 +61,4 @@ MacOS High Sierra 10.13.6 (17G2112)
 
 | 微信                                                       | 支付宝                                               |
 | ---------------------------------------------------------- | ---------------------------------------------------- |
-|![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/wechatpay.png)|![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/ailpay.png)
+|![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/wechatpay.png)|![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/ailpay.jpg)
