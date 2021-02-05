@@ -1,4 +1,4 @@
-
+![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/macOS_Big_Sur_.jpg)
 ## 概述
 
 疑问解答加入我的QQ群：678047104
@@ -61,3 +61,4 @@ MacOS High Sierra 10.13.6 (17G2112)
 
 | 微信                                                       | 支付宝                                               |
 | ---------------------------------------------------------- | ---------------------------------------------------- |
+|![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/wechatpay.png)|![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/ailpay.png)
