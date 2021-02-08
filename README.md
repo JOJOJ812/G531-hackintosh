@@ -48,7 +48,6 @@ MacOS High Sierra 10.13.6
 - 睡眠唤醒（鼠标，键盘、电源键唤醒均正常）
 - 无线网络（你可以使用intel网卡，驱动来自(https://github.com/OpenIntelWireless/itlwm/releases）
 - 蓝牙（你可以使用intel蓝牙，驱动来自(https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases）
-- 触控板 （全系支持全手势）
 - 随航（有线/无线{需要网卡支持}）
 
 ## 不能正常使用的功能
