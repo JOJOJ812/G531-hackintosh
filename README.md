@@ -49,6 +49,7 @@ MacOS High Sierra 10.13.6
 - 无线网络（你可以使用intel网卡，驱动来自https://github.com/OpenIntelWireless/itlwm/releases
 - 蓝牙（你可以使用intel蓝牙，驱动来自https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases
 - 随航（有线/无线{需要网卡支持}）
+-全系支持触摸板
 
 ## 不能正常使用的功能
 - HDMI ，因为HDMI 端口连接到已禁用的Nvidia卡
