@@ -1,4 +1,4 @@
-![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/macOS_Big_Sur_.jpg)
+![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/Monterey.jpg)
 ## 概述
 
 疑问解答加入我的QQ群：678047104
@@ -7,7 +7,7 @@
 
 
 ## 适用系统
-
+MacOS Monterey 12.x
 MacOS Big Sur 11.x  
 MacOS Catalina 10.15.x  
 MacOS Mojave 10.14.x  
@@ -21,10 +21,10 @@ MacOS High Sierra 10.13.6
 
 ## 发布
 
-发布OC版本为064（不完整）需自行构建完整的OC文件，GitHub仅提供acpi与config配置文件（请前往：https://github.com/JOJOJ812/G531-hackintosh
+发布OC版本为080（不完整）需自行构建完整的OC文件，GitHub仅提供acpi与config配置文件（请前往：https://github.com/JOJOJ812/G531-hackintosh,完整版请前往QQ群：678047104进行获取。
 
 ## 需要准备
-- 下载好的 MacOS 镜像（支持 macOS High Sierra (10.13.6) - macOS Big Sur 的镜像安装）
+- 下载好的 MacOS 镜像（支持 macOS High Sierra (10.13.6) - macOS Monterey(12.3.1) 的镜像安装）
 - 16GB U盘
 
 ## BIOS设置
@@ -33,13 +33,12 @@ MacOS High Sierra 10.13.6
 - SATA模式设置为AHCI。
 
 ## 正常工作的功能
-- UEFI通过 Clover/OC 启动
+- UEFI通过 OC 启动
 - 支持任意版本系统OTA升级到最新系统
 - 原生USB3.0/USB2.0 
 - AppleHDA原生音频，包括耳机
 - 原生电源管理
 - 电池状态
-- 背光控制
 - 背光键盘
 - 核显驱动（独显已经屏蔽）
 - 有线以太网卡
