@@ -14,6 +14,7 @@ MacOS Catalina 10.15.x
 MacOS Mojave 10.14.x  
 MacOS High Sierra 10.13.6 
 
+
 ## 适用型号
   * G531（魔霸1——4）
   * GU502（幻系列）
