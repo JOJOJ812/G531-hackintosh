@@ -1,4 +1,4 @@
-![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/Ventura.jpg)
+![image](https://github.com/JOJOJ812/G531-hackintosh/blob/master/Picture/Ventura.png)
 ## 概述
 
 疑问解答加入我的QQ群：678047104
