@@ -7,6 +7,7 @@
 
 
 ## 适用系统
+MacOS Ventura 13.x
 MacOS Monterey 12.x
 MacOS Big Sur 11.x  
 MacOS Catalina 10.15.x  
@@ -21,11 +22,11 @@ MacOS High Sierra 10.13.6
 
 ## 发布
 
-发布OC版本为080（不完整）需自行构建完整的OC文件，GitHub仅提供acpi与config配置文件（请前往：https://github.com/JOJOJ812/G531-hackintosh
+发布OC版本为082（不完整）需自行使用ocat构建完整的OC文件，GitHub仅提供acpi与config配置文件（请前往：https://github.com/JOJOJ812/G531-hackintosh）
 完整版请前往QQ群：678047104进行获取。
 
 ## 需要准备
-- 下载好的 MacOS 镜像（支持 macOS High Sierra (10.13.6) - macOS Monterey(12.3.1) 的镜像安装）
+- 下载好的 MacOS 镜像（支持 macOS High Sierra (10.13.6) - macOS Ventura(13beta1) 的镜像安装）
 - 16GB U盘
 
 ## BIOS设置
