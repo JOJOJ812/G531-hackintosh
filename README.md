@@ -23,7 +23,7 @@ MacOS High Sierra 10.13.6
 
 ## 发布
 
-发布OC版本为082（不完整）需自行使用ocat构建完整的OC文件，GitHub仅提供acpi与config配置文件（请前往：https://github.com/JOJOJ812/G531-hackintosh）
+发布OC版本为082（不完整）需自行使用ocat构建完整的OC文件，GitHub仅提供acpi与config配置文件  
 完整版请前往QQ群：678047104进行获取。
 
 ## 需要准备
